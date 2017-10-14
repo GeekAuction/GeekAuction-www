@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "name": "geekauction-www",
+    "description": "The GeekAuction Official Site",
+    "homepage": "https://vk.com/gs_auction",
+    "author": "kalaider <a.kalaider@yandex.ru>",
+    "license": "MIT",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/GeekAuction/GeekAuction-www"
+    },
+    "dependencies": {
+        "ejs-locals": "^1.0.2",
+        "express": "^3.21.2",
+        "nconf": "^0.8.4"
+    }
+}

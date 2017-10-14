@@ -1,0 +1,25 @@
+{
+  "name": "geekauction-www",
+  "description": "The GeekAuction Official Site",
+  "main": "index.js",
+  "authors": [
+    "kalaider <a.kalaider@yandex.ru>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "geekauction"
+  ],
+  "homepage": "https://vk.com/gs_auction",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest"
+  }
+}
